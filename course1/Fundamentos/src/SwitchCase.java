@@ -27,7 +27,7 @@ public class SwitchCase {
           System.out.println("Friday");
           break;
         default:
-          System.err.println("Invalid option");
+          System.out.println("Invalid option");
       }
    }
 
